@@ -4,13 +4,15 @@ title: Josh Deere's CV
 ---
 # Josh Deere
 __Brigham Young University-Idaho__
+
 _Business Analytics_
+
 Relevant Courses: Related Courses: Data Science Programming, Managerial Accounting, Spreadsheet Analysis for Business, 
 Programming with Functions, Business Analytics, Financial Management, Business Statistics, Database Design and Development,
 Business Intel and Analytics 
 
 <div id="webaddress">
-<a href="deerejoshm@gmail.com">isaac@applesdofall.org</a>
+<a href="deerejoshm@gmail.com">deerejoshm@gmail.com</a>
 | <a href="https://www.linkedin.com/in/deere-joshua/">LinkedIn</a>
 </div>
 
@@ -19,7 +21,9 @@ Business Intel and Analytics
 
 `2020-2025`
 __Brigham Young University-Idaho__
+
 _Business Analytics_
+
 Relevant Courses: Related Courses: Data Science Programming, Managerial Accounting, Spreadsheet Analysis for Business, 
 Programming with Functions, Business Analytics, Financial Management, Business Statistics, Database Design and Development,
 Business Intel and Analytics 
@@ -35,7 +39,9 @@ Business Administration
 ## Employment History
 
 `April 2023-September 2023`
-__Brigham Young University-Idaho__, Rexburg, ID 
+__Brigham Young University-Idaho__ 
+
+Rexburg, ID 
 
 _Project Coordinator_
 - Promoted to Coordinator in less than 14 weeks after starting position
@@ -45,7 +51,9 @@ _Project Coordinator_
 - Coordinated with Supervisor Lead to plan weekly agenda and projects requiring immediate attention
 
 `April 2022-September 2022`
-__Mountain America Credit Union__, Idaho Falls, ID
+__Mountain America Credit Union__
+
+Idaho Falls, ID
 
 _Member Experience Officer_
 - Coordinated with Supervisor Lead to plan weekly agenda and projects requiring immediate attention
