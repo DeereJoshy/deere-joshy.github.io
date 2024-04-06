@@ -1,88 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Josh Deere's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Josh Deere
+__Brigham Young University-Idaho__
+_Business Analytics_
+Relevant Courses: Related Courses: Data Science Programming, Managerial Accounting, Spreadsheet Analysis for Business, 
+Programming with Functions, Business Analytics, Financial Management, Business Statistics, Database Design and Development,
+Business Intel and Analytics 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="deerejoshm@gmail.com">isaac@applesdofall.org</a>
+| <a href="https://www.linkedin.com/in/deere-joshua/">LinkedIn</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2020-2025`
+__Brigham Young University-Idaho__
+_Business Analytics_
+Relevant Courses: Related Courses: Data Science Programming, Managerial Accounting, Spreadsheet Analysis for Business, 
+Programming with Functions, Business Analytics, Financial Management, Business Statistics, Database Design and Development,
+Business Intel and Analytics 
 
 
+## Certificates
 
-## Awards
+Data Science
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Business Administration
 
 
+## Employment History
 
-## Publications
+`April 2023-September 2023`
+__Brigham Young University-Idaho__, Rexburg, ID 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+_Project Coordinator_
+- Promoted to Coordinator in less than 14 weeks after starting position
+- Directed a team of students in accomplishing grounds-keeping tasks in 4 hour increments
+- Offered assistance each week to other teams to complete advanced and complicated projects as coordinator for both groups
+- Performed physically strenuous tasks for long hours both in a team and solo environment such as heavy equipment operation and maintenance
+- Coordinated with Supervisor Lead to plan weekly agenda and projects requiring immediate attention
 
-### Journals
+`April 2022-September 2022`
+__Mountain America Credit Union__, Idaho Falls, ID
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+_Member Experience Officer_
+- Coordinated with Supervisor Lead to plan weekly agenda and projects requiring immediate attention
+- Prepared and processed personal and business loan documents in Word for colleagues after only one week of training
+- Rescued up to $100k in predatory loans in auto, credit card, and personal loan market after only 3 months
+- Finalized all loan applications on day of credit pull or within one week of loan request
+- Completed all loan applications with little or no compliance errors after only 1 month of working
 
 
+## Involvement and Activities
+
+- Jazz ensemble Lead drummer
+- Various physical pursuits such as Football and Bodybuilding
+- Served as a missionary for 2 years in South America as a leader of up to twelve American and Foreign colleagues
+- Door to door sales and marketing experience
+- Competed in conference championships for Shotput in 1st season
+
+
+## Skills
+
+- Power BI, Excel, Tableau, MySQL, Python, Word, PowerPoint, Outlook
+- Python packages for analysis and others (Pandas, NumPy, Plotly, VBA, DAX)
+- Quick to retain information and training to ensure smooth transition to new positions
+- Flexible and dedicated ensuring proper care and attention to every detail
+- Willing to receive criticism and assistance to learn new ways to solve issues or needs dependent on each situation
+- Dependable and hardworking. Not afraid to go any number of extra miles in any situation
+- Worthy leader and communicator willing to assist with conflict resolution
+- Fluent in Spanish and Intermediate in Portuguese 
 
 <!-- ### Footer
 
